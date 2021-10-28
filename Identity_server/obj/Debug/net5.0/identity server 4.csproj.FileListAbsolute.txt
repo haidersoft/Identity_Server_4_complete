@@ -1,0 +1,299 @@
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\appsettings.Development.json
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\appsettings.json
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\identity server 4.exe
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\identity server 4.deps.json
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\identity server 4.runtimeconfig.json
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\identity server 4.runtimeconfig.dev.json
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\identity server 4.dll
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\ref\identity server 4.dll
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\identity server 4.pdb
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\IdentityModel.dll
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\IdentityServer4.dll
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\IdentityServer4.Storage.dll
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Development Data\identity server 4\Ids\obj\Debug\net5.0\identity server 4.csproj.AssemblyReference.cache
+C:\Development Data\identity server 4\Ids\obj\Debug\net5.0\identity server 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development Data\identity server 4\Ids\obj\Debug\net5.0\identity server 4.AssemblyInfoInputs.cache
+C:\Development Data\identity server 4\Ids\obj\Debug\net5.0\identity server 4.AssemblyInfo.cs
+C:\Development Data\identity server 4\Ids\obj\Debug\net5.0\identity server 4.csproj.CoreCompileInputs.cache
+C:\Development Data\identity server 4\Ids\obj\Debug\net5.0\identity server 4.MvcApplicationPartsAssemblyInfo.cache
+C:\Development Data\identity server 4\Ids\obj\Debug\net5.0\staticwebassets\identity server 4.StaticWebAssets.Manifest.cache
+C:\Development Data\identity server 4\Ids\obj\Debug\net5.0\staticwebassets\identity server 4.StaticWebAssets.xml
+C:\Development Data\identity server 4\Ids\obj\Debug\net5.0\scopedcss\bundle\identity server 4.styles.css
+C:\Development Data\identity server 4\Ids\obj\Debug\net5.0\identity server 4.RazorTargetAssemblyInfo.cache
+C:\Development Data\identity server 4\Ids\obj\Debug\net5.0\identity server 4.csproj.CopyComplete
+C:\Development Data\identity server 4\Ids\obj\Debug\net5.0\identity server 4.dll
+C:\Development Data\identity server 4\Ids\obj\Debug\net5.0\ref\identity server 4.dll
+C:\Development Data\identity server 4\Ids\obj\Debug\net5.0\identity server 4.pdb
+C:\Development Data\identity server 4\Ids\obj\Debug\net5.0\identity server 4.genruntimeconfig.cache
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\AutoMapper.dll
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\Humanizer.dll
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\IdentityServer4.EntityFramework.dll
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\IdentityServer4.EntityFramework.Storage.dll
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\Serilog.dll
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\Serilog.AspNetCore.dll
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\Serilog.Sinks.File.dll
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\IdentityServer4.AspNetIdentity.dll
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Development Data\identity server 4\Ids\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\appsettings.Development.json
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\appsettings.json
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\identity server 4.exe
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\identity server 4.deps.json
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\identity server 4.runtimeconfig.json
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\identity server 4.runtimeconfig.dev.json
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\identity server 4.dll
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\ref\identity server 4.dll
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\identity server 4.pdb
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\AutoMapper.dll
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\Humanizer.dll
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\IdentityModel.dll
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\IdentityServer4.dll
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\IdentityServer4.AspNetIdentity.dll
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\IdentityServer4.EntityFramework.dll
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\IdentityServer4.EntityFramework.Storage.dll
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\IdentityServer4.Storage.dll
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\Serilog.dll
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\Serilog.AspNetCore.dll
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\Serilog.Sinks.File.dll
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Development Data\identity server 4\Ids\Identity_server\obj\Debug\net5.0\identity server 4.csproj.AssemblyReference.cache
+C:\Development Data\identity server 4\Ids\Identity_server\obj\Debug\net5.0\identity server 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development Data\identity server 4\Ids\Identity_server\obj\Debug\net5.0\identity server 4.AssemblyInfoInputs.cache
+C:\Development Data\identity server 4\Ids\Identity_server\obj\Debug\net5.0\identity server 4.AssemblyInfo.cs
+C:\Development Data\identity server 4\Ids\Identity_server\obj\Debug\net5.0\identity server 4.csproj.CoreCompileInputs.cache
+C:\Development Data\identity server 4\Ids\Identity_server\obj\Debug\net5.0\identity server 4.MvcApplicationPartsAssemblyInfo.cache
+C:\Development Data\identity server 4\Ids\Identity_server\obj\Debug\net5.0\staticwebassets\identity server 4.StaticWebAssets.Manifest.cache
+C:\Development Data\identity server 4\Ids\Identity_server\obj\Debug\net5.0\staticwebassets\identity server 4.StaticWebAssets.xml
+C:\Development Data\identity server 4\Ids\Identity_server\obj\Debug\net5.0\scopedcss\bundle\identity server 4.styles.css
+C:\Development Data\identity server 4\Ids\Identity_server\obj\Debug\net5.0\identity server 4.RazorTargetAssemblyInfo.cache
+C:\Development Data\identity server 4\Ids\Identity_server\obj\Debug\net5.0\identity server 4.csproj.CopyComplete
+C:\Development Data\identity server 4\Ids\Identity_server\obj\Debug\net5.0\identity server 4.dll
+C:\Development Data\identity server 4\Ids\Identity_server\obj\Debug\net5.0\ref\identity server 4.dll
+C:\Development Data\identity server 4\Ids\Identity_server\obj\Debug\net5.0\identity server 4.pdb
+C:\Development Data\identity server 4\Ids\Identity_server\obj\Debug\net5.0\identity server 4.genruntimeconfig.cache
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\identity server 4.Views.dll
+C:\Development Data\identity server 4\Ids\Identity_server\bin\Debug\net5.0\identity server 4.Views.pdb
+C:\Development Data\identity server 4\Ids\Identity_server\obj\Debug\net5.0\identity server 4.RazorAssemblyInfo.cache
+C:\Development Data\identity server 4\Ids\Identity_server\obj\Debug\net5.0\identity server 4.RazorAssemblyInfo.cs
+C:\Development Data\identity server 4\Ids\Identity_server\obj\Debug\net5.0\identity server 4.TagHelpers.input.cache
+C:\Development Data\identity server 4\Ids\Identity_server\obj\Debug\net5.0\identity server 4.TagHelpers.output.cache
+C:\Development Data\identity server 4\Ids\Identity_server\obj\Debug\net5.0\identity server 4.RazorCoreGenerate.cache
+C:\Development Data\identity server 4\Ids\Identity_server\obj\Debug\net5.0\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Development Data\identity server 4\Ids\Identity_server\obj\Debug\net5.0\Razor\Views\Account\LoggedOut.cshtml.g.cs
+C:\Development Data\identity server 4\Ids\Identity_server\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Development Data\identity server 4\Ids\Identity_server\obj\Debug\net5.0\Razor\Views\Account\Logout.cshtml.g.cs
+C:\Development Data\identity server 4\Ids\Identity_server\obj\Debug\net5.0\Razor\Views\Consent\Index.cshtml.g.cs
+C:\Development Data\identity server 4\Ids\Identity_server\obj\Debug\net5.0\Razor\Views\Device\Success.cshtml.g.cs
+C:\Development Data\identity server 4\Ids\Identity_server\obj\Debug\net5.0\Razor\Views\Device\UserCodeCapture.cshtml.g.cs
+C:\Development Data\identity server 4\Ids\Identity_server\obj\Debug\net5.0\Razor\Views\Device\UserCodeConfirmation.cshtml.g.cs
+C:\Development Data\identity server 4\Ids\Identity_server\obj\Debug\net5.0\Razor\Views\Diagnostics\Index.cshtml.g.cs
+C:\Development Data\identity server 4\Ids\Identity_server\obj\Debug\net5.0\Razor\Views\Grants\Index.cshtml.g.cs
+C:\Development Data\identity server 4\Ids\Identity_server\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Development Data\identity server 4\Ids\Identity_server\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Development Data\identity server 4\Ids\Identity_server\obj\Debug\net5.0\Razor\Views\Shared\Redirect.cshtml.g.cs
+C:\Development Data\identity server 4\Ids\Identity_server\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Development Data\identity server 4\Ids\Identity_server\obj\Debug\net5.0\Razor\Views\Shared\_Nav.cshtml.g.cs
+C:\Development Data\identity server 4\Ids\Identity_server\obj\Debug\net5.0\Razor\Views\Shared\_ScopeListItem.cshtml.g.cs
+C:\Development Data\identity server 4\Ids\Identity_server\obj\Debug\net5.0\Razor\Views\Shared\_ValidationSummary.cshtml.g.cs
+C:\Development Data\identity server 4\Ids\Identity_server\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Development Data\identity server 4\Ids\Identity_server\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Development Data\identity server 4\Ids\Identity_server\obj\Debug\net5.0\identity server 4.RazorTargetAssemblyInfo.cs
+C:\Development Data\identity server 4\Ids\Identity_server\obj\Debug\net5.0\identity server 4.Views.pdb
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\appsettings.Development.json
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\appsettings.json
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\identity server 4.exe
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\identity server 4.deps.json
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\identity server 4.runtimeconfig.json
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\identity server 4.runtimeconfig.dev.json
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\identity server 4.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\ref\identity server 4.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\identity server 4.pdb
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\identity server 4.Views.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\identity server 4.Views.pdb
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\AutoMapper.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\Humanizer.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\IdentityModel.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\IdentityServer4.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\IdentityServer4.AspNetIdentity.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\IdentityServer4.EntityFramework.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\IdentityServer4.EntityFramework.Storage.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\IdentityServer4.Storage.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\Serilog.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\Serilog.AspNetCore.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\Serilog.Sinks.File.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\obj\Debug\net5.0\identity server 4.csproj.AssemblyReference.cache
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\obj\Debug\net5.0\identity server 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\obj\Debug\net5.0\identity server 4.AssemblyInfoInputs.cache
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\obj\Debug\net5.0\identity server 4.AssemblyInfo.cs
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\obj\Debug\net5.0\identity server 4.csproj.CoreCompileInputs.cache
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\obj\Debug\net5.0\identity server 4.MvcApplicationPartsAssemblyInfo.cache
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\obj\Debug\net5.0\identity server 4.RazorAssemblyInfo.cache
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\obj\Debug\net5.0\identity server 4.RazorAssemblyInfo.cs
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\obj\Debug\net5.0\staticwebassets\identity server 4.StaticWebAssets.Manifest.cache
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\obj\Debug\net5.0\staticwebassets\identity server 4.StaticWebAssets.xml
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\obj\Debug\net5.0\scopedcss\bundle\identity server 4.styles.css
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\obj\Debug\net5.0\identity server 4.TagHelpers.input.cache
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\obj\Debug\net5.0\identity server 4.TagHelpers.output.cache
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\obj\Debug\net5.0\identity server 4.RazorCoreGenerate.cache
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\obj\Debug\net5.0\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\obj\Debug\net5.0\Razor\Views\Account\LoggedOut.cshtml.g.cs
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\obj\Debug\net5.0\Razor\Views\Account\Logout.cshtml.g.cs
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\obj\Debug\net5.0\Razor\Views\Consent\Index.cshtml.g.cs
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\obj\Debug\net5.0\Razor\Views\Device\Success.cshtml.g.cs
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\obj\Debug\net5.0\Razor\Views\Device\UserCodeCapture.cshtml.g.cs
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\obj\Debug\net5.0\Razor\Views\Device\UserCodeConfirmation.cshtml.g.cs
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\obj\Debug\net5.0\Razor\Views\Diagnostics\Index.cshtml.g.cs
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\obj\Debug\net5.0\Razor\Views\Grants\Index.cshtml.g.cs
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\obj\Debug\net5.0\Razor\Views\Shared\Redirect.cshtml.g.cs
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\obj\Debug\net5.0\Razor\Views\Shared\_Nav.cshtml.g.cs
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\obj\Debug\net5.0\Razor\Views\Shared\_ScopeListItem.cshtml.g.cs
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\obj\Debug\net5.0\Razor\Views\Shared\_ValidationSummary.cshtml.g.cs
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\obj\Debug\net5.0\identity server 4.RazorTargetAssemblyInfo.cache
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\obj\Debug\net5.0\identity server 4.RazorTargetAssemblyInfo.cs
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\obj\Debug\net5.0\identity server 4.Views.pdb
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\obj\Debug\net5.0\identity server 4.csproj.CopyComplete
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\obj\Debug\net5.0\identity server 4.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\obj\Debug\net5.0\ref\identity server 4.dll
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\obj\Debug\net5.0\identity server 4.pdb
+C:\Development Data\identity server 4\Ids\Complete_Setup\Identity_server\obj\Debug\net5.0\identity server 4.genruntimeconfig.cache
